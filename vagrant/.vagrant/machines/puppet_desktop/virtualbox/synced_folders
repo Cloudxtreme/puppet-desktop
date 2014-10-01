@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/puppet-desktop":{"create":true,"guestpath":"/home/vagrant/puppet-desktop","hostpath":"/home/nir0s/repos/nir0s/puppet-desktop","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/nir0s/repos/nir0s/puppet-desktop/vagrant","disabled":false}}}
